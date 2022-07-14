@@ -1,0 +1,26 @@
+_repo: Comedias-tomo-1-de-3-Los-Acarnienses-los-Caballeros-las-Nubes_68443
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Aristófanes
+    gutenberg_agent_id: '54780'
+    url: http://www.gutenberg.org/2009/agents/54780
+description: ''
+gutenberg_issued: '2022-07-02'
+identifiers:
+  gutenberg: '68443'
+language: es
+pgterms:marc904: https://archive.org/details/AU1012
+pgterms:marc905: 20220329033344author
+pgterms:marc906: '1881'
+pgterms:marc907: ES
+production_note: Ramón Pajares Box. (This file was produced from images generously
+  made available by The Internet Archive/Universidad de Sevilla.)
+publication_note: Spain :Luis Navarro, editor,1881.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Comedias, tomo 1 de 3: Los Acarnienses, los Caballeros, las Nubes'
+url: http://www.gutenberg.org/ebooks/68443
